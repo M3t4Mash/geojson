@@ -12,16 +12,9 @@
             },
             "pos": 0,
             "properties": {
-                "name": "Sportgel\u00e4nde",
-                "strasse": "Hartmannstra\u00dfe 120",
-                "famos": "10303",
-                "org": "",
-                "descs": "Sportgel\u00e4nde",
-                "descl": "Sportgel\u00e4nde",
-                "icon": "circle-o",
-                "markerColor": "default",
-                "popup": "<h4>Sportgel&auml;nde<\/h4>Sportgel&auml;nde<br \/>\nAnsprechpartner: Hans Dampf<br \/>\nVetretung: Hans Wurst"
-            }
+                "Ansprechpartner": "Hans Dampf",
+                "Vertreter": "Hans Wurst",
+                }
         },
         {
             "type": "Feature",
